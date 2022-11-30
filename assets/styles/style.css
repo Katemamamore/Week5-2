@@ -1,3 +1,5 @@
+a {text-decoration: none; color: navy;} 
+a:hover {text-decoration: underline;}
 .nav1 {
     display: flex;
     justify-content: flex-start;
@@ -133,7 +135,6 @@ color: #1C2323;
     top: 312.5px;
     background-image: url(/assets/images/Rectangle\ 9.png);
 }
-
 .go {
     text-decoration: none; 
     position: absolute;
@@ -149,6 +150,86 @@ color: #1C2323;
     font-size: 25px;
     line-height: 38px;
     color: #FFFFFF;
+}
+.How_it_works{
+    position: absolute;
+width: 460px;
+height: 105px;
+left: 730px;
+top: 1172px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 70px;
+line-height: 105px;
+text-align: center;
+color: #1C2323;
+}
+.Spice{
+    position: absolute;
+width: 506px;
+height: 90px;
+left: 707px;
+top: 1297px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+
+color: #404242;
+}
+.img2{
+    position: absolute;
+width: 1063px;
+height: 350px;
+left: 166px;
+top: 1458px;
+
+background: url(image.png);
+border-radius: 10px 0px 0px 10px;
+}
+.img3{
+    position: absolute;
+width: 549px;
+height: 350px;
+left: 1229px;
+top: 1458px;
+
+background: #CCF0E6;
+border-radius: 0px 10px 10px 0px;
+}
+.We_provide_design{
+    position: absolute;
+    width: 328px;
+    height: 120px;
+    left: 1344px;
+    top: 1528px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #486958; 
+}
+.see_video{
+    position: absolute;
+width: 130px;
+height: 30px;
+left: 1344px;
+top: 1689px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #486958;
 }
 .footer1{
     position: absolute;
