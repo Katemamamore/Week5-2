@@ -231,6 +231,342 @@ line-height: 30px;
 
 color: #486958;
 }
+.img4{
+    position: absolute;
+    width: 642px;
+    height: 650px;
+    left: 166px;
+    top: 1958px;
+    
+    background: url(image.png);  
+}
+.Our_mission{
+    position: absolute;
+width: 487px;
+height: 180px;
+left: 953.12px;
+top: 1958px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+
+color: #1C2323;
+}
+.By_applying{
+    position: absolute;
+width: 708px;
+height: 225px;
+left: 950px;
+top: 2188px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 45px;
+
+color: #486958;
+}
+.project{
+    position: absolute;
+    width: 408px;
+    height: 105px;
+    left: 756px;
+    top: 2728px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 70px;
+    line-height: 105px;
+    text-align: center;
+    
+    color: #1C2323; 
+}
+.Introducing{
+    position: absolute;
+width: 515px;
+height: 45px;
+left: 703px;
+top: 2853px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+
+color: #404242;
+}
+.Livingroom{
+    position: absolute;
+width: 386px;
+height: 60px;
+left: 166px;
+top: 3058px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+
+color: #58A9A5;
+}
+.Livingroom_text{
+    position: absolute;
+    width: 453px;
+    height: 90px;
+    left: 166px;
+    top: 3123px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    
+    color: #486958; 
+}
+.workspace{
+    position: absolute;
+width: 381px;
+height: 60px;
+left: 735.5px;
+top: 3543px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+
+color: #58A9A5;
+}
+.workspace_text{
+    position: absolute;
+    width: 453px;
+    height: 90px;
+    left: 735.5px;
+    top: 3608px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    
+    color: #486958;
+    }
+    .Library{
+        position: absolute;
+width: 145px;
+height: 60px;
+left: 1323.5px;
+top: 3058px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+
+color: #58A9A5;
+    }
+    .Library_text{
+        position: absolute;
+        width: 453px;
+        height: 90px;
+        left: 1323.5px;
+        top: 3123px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 30px;
+        
+        color: #486958;  
+    }
+    .img5{
+        position: absolute;
+        width: 450px;
+        height: 450px;
+        left: 166px;
+        top: 3248px;
+        
+        background: url(image.png);
+        border-radius: 0px 0px 225px 225px; 
+    }
+    .img6{
+        position: absolute;
+width: 450px;
+height: 450px;
+left: 735.5px;
+top: 3058px;
+
+background: url(image.png);
+border-radius: 225px;
+    }
+    .img7{
+        position: absolute;
+width: 450px;
+height: 450px;
+left: 1323.5px;
+top: 3248px;
+
+background: url(image.png);
+border-radius: 0px 0px 225px 225px;
+    }
+    .Testimonial{
+        position: absolute;
+width: 435px;
+height: 105px;
+left: 743px;
+top: 3948px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 70px;
+line-height: 105px;
+text-align: center;
+
+color: #1C2323;
+    }
+    .img8{
+        position: absolute;
+        width: 239.06px;
+        height: 239px;
+        left: 339.7px;
+        top: 4074.96px;
+        
+        background: url(image.png); 
+    }
+    .img9{
+        position: absolute;
+        width: 237px;
+        height: 89.65px;
+        left: 668.76px;
+        top: 4149.63px;
+        
+        background: url(image.png);   
+    }
+    .img10{
+        position: absolute;
+        width: 296px;
+        height: 44px;
+        left: 995.76px;
+        top: 4172.46px;
+        
+        background: url(image.png);  
+    }
+    .img11{
+        position: absolute;
+        width: 198.54px;
+        height: 130.91px;
+        left: 1381.76px;
+        top: 4129px;
+        
+        background: url(image.png);  
+    }
+    .img12{
+        position: absolute;
+width: 615px;
+height: 700px;
+left: 166px;
+top: 4376px;
+
+background: url(image.png);
+    }
+    .img13{
+        position: absolute;
+        width: 997px;
+        height: 700px;
+        left: 781px;
+        top: 4376px;
+        
+        background: #CCF0E6;  
+    }
+    .img14{
+        position: absolute;
+        width: 133px;
+        height: 321px;
+        left: 863.04px;
+        top: 4620.96px;
+        
+        font-family: 'Port Lligat Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 300px;
+        line-height: 321px;
+        
+        color: #FFFFFF; 
+    }
+    .project-done{
+        position: absolute;
+        width: 119px;
+        height: 179px;
+        left: 916.5px;
+        top: 4426.96px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 45px;
+        
+        color: #58A9A5;
+    }
+    .years{
+        position: absolute;
+        width: 169px;
+        height: 179px;
+        left: 1152.5px;
+        top: 4426.96px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 45px;
+        
+        color: #58A9A5;
+         }
+         .big-company{
+            position: absolute;
+            width: 204px;
+            height: 179px;
+            left: 1438.5px;
+            top: 4427.96px;
+            
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 30px;
+            line-height: 45px;
+           
+            color: #58A9A5;
+             }
+             .Not_able_to_tell{
+                position: absolute;
+                width: 752px;
+                height: 228px;
+                left: 918.59px;
+                top: 4728.96px;
+
+font-family: Poppins;
+font-size: 25px;
+font-weight: 500;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+color: #486958;
+ }
 .footer1{
     position: absolute;
 width: 398px;
